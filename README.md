@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hillc147
+- 👋 Hi, I’m @hillc147 also known as Christian!
 - 👀 I’m interested in anything related to Cybersecurity and DevOps!
 - 🌱 I’m currently learning GO, Kubernetes, and cloud related information
 - 📫 How to reach me hillct147@outlook.com
